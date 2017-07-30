@@ -1,0 +1,35 @@
+39.45526	-79.10255	http://swimmingholes.org/wv.html#MOUNT STORM AREA
+39.5967	-79.7447	http://swimmingholes.org/wv.html#BIG SANDY CREEK AREA
+39.9733	-79.2981	http://swimmingholes.org/pa.html#BLUE HOLE BARRONVALE
+40.81417	-80.32833	http://swimmingholes.org/pa.html#BUTTERMILK FALLS - HOMEWOOD
+41.01614	-80.32642	http://swimmingholes.org/pa.html#NESHANNOCK CREEK AREA
+41.32586	-79.19111	http://swimmingholes.org/pa.html#COOK FOREST S. P.
+40.10722	-79.67806	http://swimmingholes.org/pa.html#CREEK FALLS
+40.2437	-78.8839	http://swimmingholes.org/pa.html#DAVIDSVILLE
+39.55607	-79.80186	http://swimmingholes.org/wv.html#DECKERS CREEK TRAIL
+39.59732	-79.7504	http://swimmingholes.org/wv.html#BIG SANDY CREEK AREA
+41.01592	-80.3237	http://swimmingholes.org/pa.html#NESHANNOCK CREEK AREA
+39.84326	-78.79979	http://swimmingholes.org/pa.html#FAIRHOPE AREA
+40.174	-79.2356	http://swimmingholes.org/pa.html#FLAT ROCK
+39.41886	-79.8906	http://swimmingholes.org/wv.html#GRAFTON AREA
+39.8321	-78.74909	http://swimmingholes.org/pa.html#FAIRHOPE AREA
+41.01562	-80.32195	http://swimmingholes.org/pa.html#NESHANNOCK CREEK AREA
+40.70882	-79.57438	http://swimmingholes.org/pa.html#FORD CITY AREA
+40.5542342	-80.206725	http://swimmingholes.org/pa.html#LITTLE SEWICKLEY CREEK
+41.4015	-79.08088	http://swimmingholes.org/pa.html#LOLETA
+39.36559	-79.24501	http://swimmingholes.org/md.html#POTOMAC S. F. AREA
+39.8625	-79.4942	http://swimmingholes.org/pa.html#OHIOPYLE AREA
+39.50113	-79.41854	http://swimmingholes.org/md.html#SWALLOW FALLS S. P.
+41.0131	-80.33049	http://swimmingholes.org/pa.html#NESHANNOCK CREEK AREA
+39.38915	-79.70145	http://swimmingholes.org/wv.html#KINGWOOD AREA
+39.41722	-79.6925	http://swimmingholes.org/wv.html#KINGWOOD AREA
+41.02284	-80.50906	http://swimmingholes.org/pa.html#QUAKERTOWN FALLS
+40.46083	-80.16814	http://swimmingholes.org/pa.html#ROBINSON HOLE
+40.56531	-79.5175	http://swimmingholes.org/pa.html#FORD CITY AREA
+39.39748	-79.68807	http://swimmingholes.org/wv.html#KINGWOOD AREA
+39.49589	-79.41725	http://swimmingholes.org/md.html#SWALLOW FALLS S. P.
+39.78015	-81.05743	http://swimmingholes.org/oh.html#THE BOLT
+40.712061	-80.546578	http://swimmingholes.org/oh.html#THE TUBBS
+40.80258	-79.93989	http://swimmingholes.org/pa.html#THORN CREEK
+41.48506	-79.44964	http://swimmingholes.org/pa.html#TIONESTA
+39.6222	-79.7047	http://swimmingholes.org/wv.html#BIG SANDY CREEK AREA
